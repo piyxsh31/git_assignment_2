@@ -4,3 +4,4 @@ Roll no. - 2024BCS-047
 Course - BCS
 Semester - 4th
 CGPA - 9.5
+CGPA - 9.4
